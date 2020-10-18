@@ -62,7 +62,7 @@ class ClockApp():
         draw = wasp.watch.drawable
 
         draw.fill()
-        draw.rleblit(digits.clock_colon, pos=(2*48, 80), fg=0xb5b6)
+        draw.rleblit(digits.clock_colon, pos=(2*48, 50), fg=0xb5b6)
         self.on_screen = ( -1, -1, -1, -1, -1, -1 )
         self.update()
         self.meter.draw()
@@ -82,16 +82,25 @@ class ClockApp():
             return False
 
         draw = wasp.watch.drawable
-        draw.rleblit(DIGITS[now[4]  % 10], pos=(4*48, 80))
-        draw.rleblit(DIGITS[now[4] // 10], pos=(3*48, 80), fg=0xbdb6)
-        draw.rleblit(DIGITS[now[3]  % 10], pos=(1*48, 80))
-        draw.rleblit(DIGITS[now[3] // 10], pos=(0*48, 80), fg=0xbdb6)
+        draw.rleblit(DIGITS[now[4]  % 10], pos=(4*48, 50))
+        draw.rleblit(DIGITS[now[4] // 10], pos=(3*48, 50), fg=0xbdb6)
+        if now[3] == 0:
+            hour0 = 1
+            hour1 = 2
+        if now[3] > 0 and now[3] < 22:
+            hour0 = 0
+            hour1 = (now[3]  % 10) - 2 
+        if now[3] > 21:
+            hour0 = 1
+            hour1 = (now[3]  % 10) + 8
+        draw.rleblit(DIGITS[hour1], pos=(1*48, 50))
+        draw.rleblit(DIGITS[hour0], pos=(0*48, 50), fg=0xbdb6)
         self.on_screen = now
 
         month = now[1] - 1
         month = MONTH[month*3:(month+1)*3]
         draw.string('{} {} {}'.format(month, now[2], now[0]),
-                0, 180, width=240)
+                0, 130, width=240)
 
         self.meter.update()
         self.notifier.update()
