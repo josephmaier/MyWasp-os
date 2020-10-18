@@ -1,0 +1,8 @@
+*.hex
+*.zip
+.*.swp
+__pycache__
+cscope.out
+docs/build
+attic/
+wasp/boards/*/watch.py
