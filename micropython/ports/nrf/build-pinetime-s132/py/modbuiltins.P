@@ -1,0 +1,126 @@
+build-pinetime-s132/py/modbuiltins.o: ../../py/modbuiltins.c \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/stdio.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/_ansi.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/newlib.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/_newlib_version.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/config.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/machine/ieeefp.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/features.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/cdefs.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/machine/_default_types.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/lib/gcc/arm-none-eabi/9.2.1/include/stdarg.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/reent.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/_ansi.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/_types.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/machine/_types.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/lock.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/types.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/_stdint.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/_pthreadtypes.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/machine/types.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/stdio.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/assert.h \
+ ../../py/smallint.h ../../py/mpconfig.h mpconfigport.h \
+ boards/pinetime/mpconfigboard.h bluetooth_conf.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/alloca.h \
+ ../../py/misc.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/lib/gcc/arm-none-eabi/9.2.1/include/stdbool.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/stdint.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/_intsup.h \
+ ../../py/objint.h ../../py/mpz.h ../../py/obj.h ../../py/qstr.h \
+ build-pinetime-s132/genhdr/qstrdefs.generated.h ../../py/mpprint.h \
+ ../../py/runtime0.h ../../py/objstr.h ../../py/objtype.h \
+ ../../py/runtime.h ../../py/mpstate.h ../../py/mpthread.h ../../py/nlr.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/lib/gcc/arm-none-eabi/9.2.1/include-fixed/limits.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/lib/gcc/arm-none-eabi/9.2.1/include-fixed/syslimits.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/limits.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/syslimits.h \
+ ../../py/objlist.h ../../py/objexcept.h ../../py/objtuple.h \
+ ../../py/pystack.h ../../py/builtin.h ../../py/stream.h \
+ ../../py/mperrno.h \
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/math.h \
+ ../../py/mphal.h mphalport.h ../../lib/nrfx/nrfx.h nrfx_config.h \
+ mpconfigport.h ../../lib/nrfx/mdk/nrf.h ../../lib/nrfx/mdk/nrf52.h \
+ ../../lib/cmsis/inc/core_cm4.h ../../lib/cmsis/inc/cmsis_version.h \
+ ../../lib/cmsis/inc/cmsis_compiler.h ../../lib/cmsis/inc/cmsis_gcc.h \
+ ../../lib/cmsis/inc/mpu_armv7.h ../../lib/nrfx/mdk/system_nrf52.h \
+ ../../lib/nrfx/mdk/nrf52_bitfields.h ../../lib/nrfx/mdk/nrf51_to_nrf52.h \
+ ../../lib/nrfx/mdk/nrf52_name_change.h \
+ ../../lib/nrfx/mdk/compiler_abstraction.h \
+ ../../lib/nrfx/drivers/nrfx_common.h \
+ ../../lib/nrfx/mdk/nrf_peripherals.h \
+ ../../lib/nrfx/mdk/nrf52832_peripherals.h nrfx_glue.h \
+ ../../lib/nrfx/soc/nrfx_irqs.h ../../lib/nrfx/soc/nrfx_irqs_nrf52832.h \
+ drivers/bluetooth/s132_nrf52_6.1.1/s132_nrf52_6.1.1_API/include/nrf_nvic.h \
+ drivers/bluetooth/s132_nrf52_6.1.1/s132_nrf52_6.1.1_API/include/nrf_svc.h \
+ drivers/bluetooth/s132_nrf52_6.1.1/s132_nrf52_6.1.1_API/include/nrf_error.h \
+ drivers/bluetooth/s132_nrf52_6.1.1/s132_nrf52_6.1.1_API/include/nrf_error_soc.h \
+ drivers/bluetooth/ble_drv.h modules/ubluepy/modubluepy.h \
+ ../../lib/nrfx/drivers/nrfx_errors.h modules/machine/pin.h \
+ pin_defs_nrf5.h ../../lib/nrfx/hal/nrf_gpio.h nrfx_config.h \
+ ../../lib/mp-readline/readline.h
+../../py/modbuiltins.c :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/stdio.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/_ansi.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/newlib.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/_newlib_version.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/config.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/machine/ieeefp.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/features.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/cdefs.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/machine/_default_types.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/lib/gcc/arm-none-eabi/9.2.1/include/stdarg.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/reent.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/_ansi.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/_types.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/machine/_types.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/lock.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/types.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/_stdint.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/_pthreadtypes.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/machine/types.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/stdio.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/assert.h :
+ ../../py/smallint.h ../../py/mpconfig.h mpconfigport.h :
+ boards/pinetime/mpconfigboard.h bluetooth_conf.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/alloca.h :
+ ../../py/misc.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/lib/gcc/arm-none-eabi/9.2.1/include/stdbool.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/stdint.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/_intsup.h :
+ ../../py/objint.h ../../py/mpz.h ../../py/obj.h ../../py/qstr.h :
+ build-pinetime-s132/genhdr/qstrdefs.generated.h ../../py/mpprint.h :
+ ../../py/runtime0.h ../../py/objstr.h ../../py/objtype.h :
+ ../../py/runtime.h ../../py/mpstate.h ../../py/mpthread.h ../../py/nlr.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/lib/gcc/arm-none-eabi/9.2.1/include-fixed/limits.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/lib/gcc/arm-none-eabi/9.2.1/include-fixed/syslimits.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/limits.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/sys/syslimits.h :
+ ../../py/objlist.h ../../py/objexcept.h ../../py/objtuple.h :
+ ../../py/pystack.h ../../py/builtin.h ../../py/stream.h :
+ ../../py/mperrno.h :
+ /opt/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/math.h :
+ ../../py/mphal.h mphalport.h ../../lib/nrfx/nrfx.h nrfx_config.h :
+ mpconfigport.h ../../lib/nrfx/mdk/nrf.h ../../lib/nrfx/mdk/nrf52.h :
+ ../../lib/cmsis/inc/core_cm4.h ../../lib/cmsis/inc/cmsis_version.h :
+ ../../lib/cmsis/inc/cmsis_compiler.h ../../lib/cmsis/inc/cmsis_gcc.h :
+ ../../lib/cmsis/inc/mpu_armv7.h ../../lib/nrfx/mdk/system_nrf52.h :
+ ../../lib/nrfx/mdk/nrf52_bitfields.h ../../lib/nrfx/mdk/nrf51_to_nrf52.h :
+ ../../lib/nrfx/mdk/nrf52_name_change.h :
+ ../../lib/nrfx/mdk/compiler_abstraction.h :
+ ../../lib/nrfx/drivers/nrfx_common.h :
+ ../../lib/nrfx/mdk/nrf_peripherals.h :
+ ../../lib/nrfx/mdk/nrf52832_peripherals.h nrfx_glue.h :
+ ../../lib/nrfx/soc/nrfx_irqs.h ../../lib/nrfx/soc/nrfx_irqs_nrf52832.h :
+ drivers/bluetooth/s132_nrf52_6.1.1/s132_nrf52_6.1.1_API/include/nrf_nvic.h :
+ drivers/bluetooth/s132_nrf52_6.1.1/s132_nrf52_6.1.1_API/include/nrf_svc.h :
+ drivers/bluetooth/s132_nrf52_6.1.1/s132_nrf52_6.1.1_API/include/nrf_error.h :
+ drivers/bluetooth/s132_nrf52_6.1.1/s132_nrf52_6.1.1_API/include/nrf_error_soc.h :
+ drivers/bluetooth/ble_drv.h modules/ubluepy/modubluepy.h :
+ ../../lib/nrfx/drivers/nrfx_errors.h modules/machine/pin.h :
+ pin_defs_nrf5.h ../../lib/nrfx/hal/nrf_gpio.h nrfx_config.h :
+ ../../lib/mp-readline/readline.h :

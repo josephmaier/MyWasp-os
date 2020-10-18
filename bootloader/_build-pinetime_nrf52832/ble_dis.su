@@ -1,0 +1,4 @@
+ble_gatts.h:446:1:sd_ble_gatts_service_add	0	static
+ble_gatts.h:501:1:sd_ble_gatts_characteristic_add	0	static
+ble_dis.c:98:17:char_add	80	static
+ble_dis.c:146:10:ble_dis_init	40	static

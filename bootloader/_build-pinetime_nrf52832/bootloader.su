@@ -1,0 +1,15 @@
+nrf_sdm.h:338:1:sd_softdevice_disable	0	static
+nrf_sdm.h:356:1:sd_softdevice_vector_table_base_set	0	static
+bootloader.c:72:13:pstorage_callback_handler	0	static
+bootloader.c:112:13:wait_for_events	16	static
+bootloader.c:184:13:bootloader_settings_save.constprop	8	static
+bootloader.c:150:6:bootloader_app_is_valid	16	static
+bootloader.c:204:6:bootloader_dfu_update_process	32	static
+bootloader.c:91:13:dfu_startup_timer_handler	40	static
+bootloader.c:309:10:bootloader_init	24	static
+bootloader.c:324:10:bootloader_dfu_start	16	static
+bootloader.c:376:6:bootloader_app_start	16	static
+bootloader.c:400:6:bootloader_dfu_sd_in_progress	16	static
+bootloader.c:416:10:bootloader_dfu_sd_update_continue	8	static
+bootloader.c:443:10:bootloader_dfu_sd_update_finalize	40	static
+bootloader.c:455:6:bootloader_settings_get	16	static

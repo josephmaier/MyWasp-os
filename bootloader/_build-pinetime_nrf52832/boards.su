@@ -1,0 +1,15 @@
+boards.c:53:6:button_init	0	static
+boards.c:68:6:button_pressed	0	static
+boards.c:158:6:SysTick_Handler	0	static
+boards.c:201:10:tusb_hal_millis	8	static
+boards.c:538:6:spi_init	0	static
+boards.c:554:6:spi_teardown	8	static
+boards.c:563:6:spi_write	32	static
+boards.c:617:13:st7789_send	24	static
+boards.c:635:6:st7789_state	1616	static
+boards.c:374:6:led_state	0	static
+boards.c:921:6:st7789_init	24	static
+boards.c:955:6:st7789_teardown	8	static
+boards.c:124:6:board_teardown	8	static
+boards.c:966:6:wdt_init	0	static
+boards.c:74:6:board_init	8	static

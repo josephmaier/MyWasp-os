@@ -1,0 +1,12 @@
+nrfx_power.c:89:36:nrfx_power_pof_handler_get	0	static
+nrfx_power.c:101:12:nrfx_power_init	0	static
+nrfx_power.c:125:6:nrfx_power_uninit	0	static
+nrfx_power.c:148:6:nrfx_power_pof_init	0	static
+nrfx_power.c:160:6:nrfx_power_pof_enable	0	static
+nrfx_power.c:172:6:nrfx_power_pof_disable	0	static
+nrfx_power.c:178:6:nrfx_power_pof_uninit	0	static
+nrfx_power.c:185:6:nrfx_power_sleepevt_init	0	static
+nrfx_power.c:196:6:nrfx_power_sleepevt_enable	8	static
+nrfx_power.c:212:6:nrfx_power_sleepevt_disable	0	static
+nrfx_power.c:218:6:nrfx_power_sleepevt_uninit	0	static
+nrfx_power.c:257:6:POWER_CLOCK_IRQHandler	24	static

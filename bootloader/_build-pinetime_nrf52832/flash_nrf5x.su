@@ -1,0 +1,2 @@
+flash_nrf5x.c:36:6:flash_nrf5x_flush	16	static
+flash_nrf5x.c:55:6:flash_nrf5x_write	24	static

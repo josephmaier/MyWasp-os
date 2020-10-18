@@ -1,0 +1,5 @@
+core_cm4.h:1790:22:NVIC_SystemReset	0	static
+nrf52832_erratas.h:467:13:errata_12	0	static
+nrf52832_erratas.h:547:13:errata_16	0	static
+system_nrf52.c:45:6:SystemCoreClockUpdate	0	static
+system_nrf52.c:50:6:SystemInit	8	static

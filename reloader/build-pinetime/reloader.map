@@ -1,0 +1,1082 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+                              /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                              /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+                              /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcmp.o)
+                              build-pinetime/flash.o (memcmp)
+/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcpy.o)
+                              build-pinetime/st7789.o (memcpy)
+/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+                              /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+                              /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o) (__call_exitprocs)
+/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+                              /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o) (atexit)
+/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+                              /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                              /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+                              /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o) (__register_exitproc)
+/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
+                              /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/main.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/flash.o
+ .debug_macro   0x0000000000000000      0xa96 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000      0x174 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000      0x588 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0xef build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x6a build-pinetime/flash.o
+ .debug_macro   0x0000000000000000      0x1df build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x3b build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x1c build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000     0x1011 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000      0x11f build-pinetime/flash.o
+ .debug_macro   0x0000000000000000      0x392 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000     0xccbc build-pinetime/flash.o
+ .debug_macro   0x0000000000000000     0x1323 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x82 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x1f build-pinetime/flash.o
+ .debug_macro   0x0000000000000000      0x3c8 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x66 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x1d build-pinetime/flash.o
+ .debug_macro   0x0000000000000000      0x12e build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0xb8 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x16 build-pinetime/flash.o
+ .debug_macro   0x0000000000000000       0x10 build-pinetime/flash.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000      0xa96 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x58 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x18 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x94 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x35 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x34 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000      0x174 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x57 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x58 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x1f build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x43 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x20 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000      0x18e build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000      0x339 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x10 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x35 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000      0x588 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0xef build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x6a build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000      0x1df build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x3b build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x1c build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0xfb build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000     0x1011 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000      0x11f build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000      0x392 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000     0xccbc build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000     0x1323 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x82 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x1f build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000      0x3c8 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x66 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x1d build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000      0x12e build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0xb8 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x16 build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x1c build-pinetime/st7789.o
+ .debug_macro   0x0000000000000000       0x2e build-pinetime/st7789.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000      0xa96 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000      0x588 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x8e build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x51 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0xef build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x6a build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000      0x1df build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000      0x174 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x3b build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x1c build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000      0x101 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000     0x1011 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000      0x11f build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000      0x392 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000     0xccbc build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000     0x1323 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x82 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x1f build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000      0x3c8 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x66 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x1d build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000      0x12e build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0xb8 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x16 build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x1c build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x1c build-pinetime/wdt.o
+ .debug_macro   0x0000000000000000       0x2e build-pinetime/wdt.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000      0xa96 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000      0x588 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x8e build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x51 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0xef build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x6a build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000      0x1df build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000      0x174 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x3b build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x1c build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000      0x101 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000     0x1011 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000      0x11f build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000      0x392 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000     0xccbc build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000     0x1323 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x82 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x1f build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000      0x3c8 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x66 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x1d build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000      0x12e build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0xb8 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x0000000000000000       0x16 build-pinetime/nrfx_nvmc.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .group         0x0000000000000000        0xc build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000      0xa96 build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000       0x8e build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000       0x51 build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000       0xef build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000       0x6a build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000      0x1df build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000       0x3b build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000       0x1c build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000       0x22 build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000      0x101 build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000     0x1011 build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000      0x11f build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000      0x392 build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000     0xccbc build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000     0x1323 build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000       0x82 build-pinetime/system_nrf52.o
+ .debug_macro   0x0000000000000000       0x1f build-pinetime/system_nrf52.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000026000 0x0000000000052000 xr
+RAM              0x00000000200039c0 0x000000000000c640 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+LOAD /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD build-pinetime/main.o
+LOAD build-pinetime/flash.o
+LOAD build-pinetime/st7789.o
+LOAD build-pinetime/wdt.o
+LOAD build-pinetime/nrfx_nvmc.o
+LOAD build-pinetime/gcc_startup_nrf52.o
+LOAD build-pinetime/system_nrf52.o
+START GROUP
+LOAD /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a
+LOAD /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a
+LOAD /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc.a
+END GROUP
+LOAD /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+LOAD /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+START GROUP
+LOAD /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a
+LOAD /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc.a
+LOAD /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a
+END GROUP
+                0x0000000000078000                _flash_size = 0x78000
+                0x0000000000010000                _ram_size = 0x10000
+                0x0000000000026000                _sd_size = 0x26000
+                0x00000000000039c0                _sd_ram = 0x39c0
+                0x0000000000052000                _app_size = (_flash_size - _sd_size)
+                0x0000000000026000                _app_start = _sd_size
+                0x00000000200039c0                _app_ram_start = (0x20000000 + _sd_ram)
+                0x000000000000c640                _app_ram_size = (_ram_size - _sd_ram)
+
+.text           0x0000000000026000    0x2b758
+ *(.isr_vector)
+ .isr_vector    0x0000000000026000      0x200 build-pinetime/gcc_startup_nrf52.o
+                0x0000000000026000                __isr_vector
+ *(.text*)
+ .text          0x0000000000026200        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .text          0x0000000000026200       0x40 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x0000000000026240       0x74 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+                0x0000000000026240                _mainCRTStartup
+                0x0000000000026240                _start
+ .text          0x00000000000262b4        0x0 build-pinetime/main.o
+ .text.panic    0x00000000000262b4        0xc build-pinetime/main.o
+                0x00000000000262b4                panic
+ .text.reboot   0x00000000000262c0        0x2 build-pinetime/main.o
+                0x00000000000262c0                reboot
+ .text.report_progress
+                0x00000000000262c2       0x10 build-pinetime/main.o
+                0x00000000000262c2                report_progress
+ .text.startup.main
+                0x00000000000262d2       0x10 build-pinetime/main.o
+                0x00000000000262d2                main
+ .text          0x00000000000262e2        0x0 build-pinetime/flash.o
+ *fill*         0x00000000000262e2        0x2 
+ .text.progress
+                0x00000000000262e4       0x34 build-pinetime/flash.o
+ .text.crc32    0x0000000000026318       0x30 build-pinetime/flash.o
+                0x0000000000026318                crc32
+ .text.flash_all
+                0x0000000000026348      0x104 build-pinetime/flash.o
+                0x0000000000026348                flash_all
+ .text          0x000000000002644c        0x0 build-pinetime/st7789.o
+ .text.spi_write
+                0x000000000002644c       0x60 build-pinetime/st7789.o
+ .text.st7789_send
+                0x00000000000264ac       0x54 build-pinetime/st7789.o
+ .text.st7789_state
+                0x0000000000026500       0xe4 build-pinetime/st7789.o
+                0x0000000000026500                st7789_state
+ .text.st7789_init
+                0x00000000000265e4       0xcc build-pinetime/st7789.o
+                0x00000000000265e4                st7789_init
+ .text.st7789_teardown
+                0x00000000000266b0       0x40 build-pinetime/st7789.o
+                0x00000000000266b0                st7789_teardown
+ .text          0x00000000000266f0        0x0 build-pinetime/wdt.o
+ .text.wdt_init
+                0x00000000000266f0       0x40 build-pinetime/wdt.o
+                0x00000000000266f0                wdt_init
+ .text.wdt_feed
+                0x0000000000026730       0x20 build-pinetime/wdt.o
+                0x0000000000026730                wdt_feed
+ .text          0x0000000000026750        0x0 build-pinetime/nrfx_nvmc.o
+ .text.partial_word_create
+                0x0000000000026750       0x26 build-pinetime/nrfx_nvmc.o
+ *fill*         0x0000000000026776        0x2 
+ .text.nvmc_words_write
+                0x0000000000026778       0x28 build-pinetime/nrfx_nvmc.o
+ .text.nrfx_nvmc_page_erase
+                0x00000000000267a0       0x40 build-pinetime/nrfx_nvmc.o
+                0x00000000000267a0                nrfx_nvmc_page_erase
+ .text.nrfx_nvmc_uicr_erase
+                0x00000000000267e0       0x28 build-pinetime/nrfx_nvmc.o
+                0x00000000000267e0                nrfx_nvmc_uicr_erase
+ .text.nrfx_nvmc_all_erase
+                0x0000000000026808       0x24 build-pinetime/nrfx_nvmc.o
+                0x0000000000026808                nrfx_nvmc_all_erase
+ .text.nrfx_nvmc_byte_writable_check
+                0x000000000002682c        0xe build-pinetime/nrfx_nvmc.o
+                0x000000000002682c                nrfx_nvmc_byte_writable_check
+ .text.nrfx_nvmc_word_writable_check
+                0x000000000002683a        0xe build-pinetime/nrfx_nvmc.o
+                0x000000000002683a                nrfx_nvmc_word_writable_check
+ .text.nrfx_nvmc_word_write
+                0x0000000000026848       0x24 build-pinetime/nrfx_nvmc.o
+                0x0000000000026848                nrfx_nvmc_word_write
+ .text.nrfx_nvmc_byte_write
+                0x000000000002686c       0x20 build-pinetime/nrfx_nvmc.o
+                0x000000000002686c                nrfx_nvmc_byte_write
+ .text.nrfx_nvmc_bytes_write
+                0x000000000002688c       0x84 build-pinetime/nrfx_nvmc.o
+                0x000000000002688c                nrfx_nvmc_bytes_write
+ .text.nrfx_nvmc_words_write
+                0x0000000000026910       0x1c build-pinetime/nrfx_nvmc.o
+                0x0000000000026910                nrfx_nvmc_words_write
+ .text.nrfx_nvmc_flash_size_get
+                0x000000000002692c        0xc build-pinetime/nrfx_nvmc.o
+                0x000000000002692c                nrfx_nvmc_flash_size_get
+ .text.nrfx_nvmc_flash_page_size_get
+                0x0000000000026938        0x8 build-pinetime/nrfx_nvmc.o
+                0x0000000000026938                nrfx_nvmc_flash_page_size_get
+ .text.nrfx_nvmc_flash_page_count_get
+                0x0000000000026940        0x8 build-pinetime/nrfx_nvmc.o
+                0x0000000000026940                nrfx_nvmc_flash_page_count_get
+ .text          0x0000000000026948       0x3c build-pinetime/gcc_startup_nrf52.o
+                0x0000000000026948                Reset_Handler
+                0x0000000000026970                NMI_Handler
+                0x0000000000026972                HardFault_Handler
+                0x0000000000026974                MemoryManagement_Handler
+                0x0000000000026976                BusFault_Handler
+                0x0000000000026978                UsageFault_Handler
+                0x000000000002697a                SVC_Handler
+                0x000000000002697c                DebugMon_Handler
+                0x000000000002697e                PendSV_Handler
+                0x0000000000026980                SysTick_Handler
+                0x0000000000026982                TIMER2_IRQHandler
+                0x0000000000026982                RTC0_IRQHandler
+                0x0000000000026982                SWI0_EGU0_IRQHandler
+                0x0000000000026982                SWI2_EGU2_IRQHandler
+                0x0000000000026982                GPIOTE_IRQHandler
+                0x0000000000026982                PWM1_IRQHandler
+                0x0000000000026982                POWER_CLOCK_IRQHandler
+                0x0000000000026982                RADIO_IRQHandler
+                0x0000000000026982                PDM_IRQHandler
+                0x0000000000026982                TEMP_IRQHandler
+                0x0000000000026982                QDEC_IRQHandler
+                0x0000000000026982                TIMER3_IRQHandler
+                0x0000000000026982                FPU_IRQHandler
+                0x0000000000026982                SPIM0_SPIS0_TWIM0_TWIS0_SPI0_TWI0_IRQHandler
+                0x0000000000026982                UARTE0_UART0_IRQHandler
+                0x0000000000026982                TIMER4_IRQHandler
+                0x0000000000026982                I2S_IRQHandler
+                0x0000000000026982                SWI4_EGU4_IRQHandler
+                0x0000000000026982                TIMER0_IRQHandler
+                0x0000000000026982                TIMER1_IRQHandler
+                0x0000000000026982                PWM2_IRQHandler
+                0x0000000000026982                ECB_IRQHandler
+                0x0000000000026982                SPIM1_SPIS1_TWIM1_TWIS1_SPI1_TWI1_IRQHandler
+                0x0000000000026982                Default_Handler
+                0x0000000000026982                SAADC_IRQHandler
+                0x0000000000026982                CCM_AAR_IRQHandler
+                0x0000000000026982                WDT_IRQHandler
+                0x0000000000026982                SWI5_EGU5_IRQHandler
+                0x0000000000026982                RNG_IRQHandler
+                0x0000000000026982                RTC2_IRQHandler
+                0x0000000000026982                PWM0_IRQHandler
+                0x0000000000026982                SWI3_EGU3_IRQHandler
+                0x0000000000026982                RTC1_IRQHandler
+                0x0000000000026982                SWI1_EGU1_IRQHandler
+                0x0000000000026982                SPIM2_SPIS2_SPI2_IRQHandler
+                0x0000000000026982                NFCT_IRQHandler
+                0x0000000000026982                MWU_IRQHandler
+                0x0000000000026982                COMP_LPCOMP_IRQHandler
+ .text          0x0000000000026984        0x0 build-pinetime/system_nrf52.o
+ .text.nrf52_errata_12
+                0x0000000000026984       0x40 build-pinetime/system_nrf52.o
+ .text.nrf52_errata_16
+                0x00000000000269c4       0x2c build-pinetime/system_nrf52.o
+ .text.SystemCoreClockUpdate
+                0x00000000000269f0       0x10 build-pinetime/system_nrf52.o
+                0x00000000000269f0                SystemCoreClockUpdate
+ .text.SystemInit
+                0x0000000000026a00      0x1e0 build-pinetime/system_nrf52.o
+                0x0000000000026a00                SystemInit
+ .text          0x0000000000026be0        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .text.exit     0x0000000000026be0       0x20 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+                0x0000000000026be0                exit
+ .text          0x0000000000026c00        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .text          0x0000000000026c00        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x0000000000026c00       0x48 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+                0x0000000000026c00                __libc_init_array
+ .text          0x0000000000026c48        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcmp.o)
+ .text.memcmp   0x0000000000026c48       0x60 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcmp.o)
+                0x0000000000026c48                memcmp
+ .text          0x0000000000026ca8      0x134 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcpy.o)
+                0x0000000000026ca8                memcpy
+ .text          0x0000000000026ddc        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .text.memset   0x0000000000026ddc       0xa0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+                0x0000000000026ddc                memset
+ .text          0x0000000000026e7c        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x0000000000026e7c       0x14 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000026e90       0xc4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+                0x0000000000026e90                __call_exitprocs
+ .text          0x0000000000026f54        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .text.atexit   0x0000000000026f54        0xc /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+                0x0000000000026f54                atexit
+ .text          0x0000000000026f60        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x0000000000026f60       0x2c /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+                0x0000000000026f60                __libc_fini_array
+ .text          0x0000000000026f8c        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000026f8c        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000026f8c                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x0000000000026f90        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000026f90                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x0000000000026f94        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000026f94                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x0000000000026f98        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000026f98                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x0000000000026f9c        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000026f9c                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000026fa0        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000026fa0                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x0000000000026fa4        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000026fa4                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000026fa8        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000026fa8                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x0000000000026fac        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000026fac                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x0000000000026fb0        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000026fb0                __retarget_lock_release_recursive
+ .text          0x0000000000026fb4        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x0000000000026fb4       0x8c /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+                0x0000000000026fb4                __register_exitproc
+ .text          0x0000000000027040        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x0000000000027040        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ .text          0x0000000000027040        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
+ .text._exit    0x0000000000027040        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
+                0x0000000000027040                _exit
+ *(.init)
+ .init          0x0000000000027044        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x0000000000027044                _init
+ .init          0x0000000000027048        0x8 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000000000027050        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x0000000000027050                _fini
+ .fini          0x0000000000027054        0x8 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.segment0
+                0x000000000002705c      0xb00 build-pinetime/flash.o
+ .rodata.segment1
+                0x0000000000027b5c    0x24150 build-pinetime/flash.o
+ .rodata.segment2
+                0x000000000004bcac     0x55c4 build-pinetime/flash.o
+ .rodata.segment3
+                0x0000000000051270        0x8 build-pinetime/flash.o
+ .rodata.segments
+                0x0000000000051278       0x40 build-pinetime/flash.o
+                0x0000000000051278                segments
+ .rodata.str1.1
+                0x00000000000512b8        0x2 build-pinetime/st7789.o
+ .rodata        0x00000000000512ba      0x444 build-pinetime/st7789.o
+ *fill*         0x00000000000516fe        0x2 
+ .rodata.delay_machine_code.6767
+                0x0000000000051700        0x6 build-pinetime/st7789.o
+ *fill*         0x0000000000051706        0x2 
+ .rodata.st7789_init_data
+                0x0000000000051708       0x3c build-pinetime/st7789.o
+ .rodata.CSWTCH.12
+                0x0000000000051744        0x4 build-pinetime/system_nrf52.o
+ .rodata.CSWTCH.16
+                0x0000000000051748        0x4 build-pinetime/system_nrf52.o
+ .rodata.CSWTCH.2
+                0x000000000005174c        0x4 build-pinetime/system_nrf52.o
+ .rodata._global_impure_ptr
+                0x0000000000051750        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                0x0000000000051750                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x0000000000051754        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x0000000000051754        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+
+.glue_7         0x0000000000051758        0x0
+ .glue_7        0x0000000000051758        0x0 linker stubs
+
+.glue_7t        0x0000000000051758        0x0
+ .glue_7t       0x0000000000051758        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000051758        0x0
+ .vfp11_veneer  0x0000000000051758        0x0 linker stubs
+
+.v4_bx          0x0000000000051758        0x0
+ .v4_bx         0x0000000000051758        0x0 linker stubs
+
+.iplt           0x0000000000051758        0x0
+ .iplt          0x0000000000051758        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ARM.extab      0x0000000000051758        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000000000051758        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+                0x0000000000051758                __exidx_start = .
+
+.ARM.exidx      0x0000000000051758        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000051758        0x8 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+                0x0000000000051760                __exidx_end = .
+                0x0000000000051760                __etext = .
+
+.rel.dyn        0x0000000000051760        0x0
+ .rel.iplt      0x0000000000051760        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.data           0x00000000200039c0      0x448 load address 0x0000000000051760
+                0x00000000200039c0                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x00000000200039c0        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000200039c0        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x00000000200039c0                __dso_handle
+ .data          0x00000000200039c4        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x00000000200039c4        0x0 build-pinetime/main.o
+ .data          0x00000000200039c4        0x0 build-pinetime/flash.o
+ .data          0x00000000200039c4        0x0 build-pinetime/st7789.o
+ .data          0x00000000200039c4        0x0 build-pinetime/wdt.o
+ .data          0x00000000200039c4        0x0 build-pinetime/nrfx_nvmc.o
+ .data          0x00000000200039c4        0x0 build-pinetime/gcc_startup_nrf52.o
+ .data          0x00000000200039c4        0x0 build-pinetime/system_nrf52.o
+ .data.SystemCoreClock
+                0x00000000200039c4        0x4 build-pinetime/system_nrf52.o
+                0x00000000200039c4                SystemCoreClock
+ .data          0x00000000200039c8        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .data          0x00000000200039c8        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000200039c8        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                0x00000000200039c8                _impure_ptr
+ *fill*         0x00000000200039cc        0x4 
+ .data.impure_data
+                0x00000000200039d0      0x428 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .data          0x0000000020003df8        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .data          0x0000000020003df8        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcmp.o)
+ .data          0x0000000020003df8        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcpy.o)
+ .data          0x0000000020003df8        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .data          0x0000000020003df8        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .data.__atexit_recursive_mutex
+                0x0000000020003df8        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+                0x0000000020003df8                __atexit_recursive_mutex
+ .data          0x0000000020003dfc        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .data          0x0000000020003dfc        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .data          0x0000000020003dfc        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+ .data          0x0000000020003dfc        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .data          0x0000000020003dfc        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x0000000020003dfc        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x0000000020003dfc        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
+                0x0000000020003dfc                . = ALIGN (0x4)
+                0x0000000020003dfc                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x0000000020003dfc                PROVIDE (__preinit_array_end = .)
+                0x0000000020003dfc                . = ALIGN (0x4)
+                0x0000000020003dfc                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x0000000020003dfc        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x0000000020003e00        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0000000020003e04                PROVIDE (__init_array_end = .)
+                0x0000000020003e04                . = ALIGN (0x4)
+                0x0000000020003e04                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000020003e04        0x4 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0000000020003e08                PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x0000000020003e08                . = ALIGN (0x4)
+                0x0000000020003e08                __data_end__ = .
+
+.igot.plt       0x0000000020003e08        0x0 load address 0x0000000000051ba8
+ .igot.plt      0x0000000020003e08        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.bss            0x0000000020003e08       0x4c load address 0x0000000000051ba8
+                0x0000000020003e08                . = ALIGN (0x4)
+                0x0000000020003e08                __bss_start__ = .
+ *(.bss*)
+ .bss           0x0000000020003e08        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x0000000020003e08       0x1c /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x0000000020003e24        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x0000000020003e24        0x0 build-pinetime/main.o
+ .bss           0x0000000020003e24        0x0 build-pinetime/flash.o
+ .bss.bytes_processed
+                0x0000000020003e24        0x4 build-pinetime/flash.o
+ .bss.percent_complete
+                0x0000000020003e28        0x4 build-pinetime/flash.o
+ .bss.total_bytes
+                0x0000000020003e2c        0x4 build-pinetime/flash.o
+ .bss           0x0000000020003e30        0x0 build-pinetime/st7789.o
+ .bss           0x0000000020003e30        0x0 build-pinetime/wdt.o
+ .bss           0x0000000020003e30        0x0 build-pinetime/nrfx_nvmc.o
+ .bss           0x0000000020003e30        0x0 build-pinetime/gcc_startup_nrf52.o
+ .bss           0x0000000020003e30        0x0 build-pinetime/system_nrf52.o
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcmp.o)
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcpy.o)
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x0000000020003e30        0x0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
+ *(COMMON)
+ COMMON         0x0000000020003e30       0x21 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000020003e30                __lock___atexit_recursive_mutex
+                0x0000000020003e34                __lock___arc4random_mutex
+                0x0000000020003e38                __lock___env_recursive_mutex
+                0x0000000020003e3c                __lock___sinit_recursive_mutex
+                0x0000000020003e40                __lock___malloc_recursive_mutex
+                0x0000000020003e44                __lock___at_quick_exit_mutex
+                0x0000000020003e48                __lock___dd_hash_mutex
+                0x0000000020003e4c                __lock___tz_mutex
+                0x0000000020003e50                __lock___sfp_recursive_mutex
+                0x0000000020003e54                . = ALIGN (0x4)
+ *fill*         0x0000000020003e51        0x3 
+                0x0000000020003e54                __bss_end__ = .
+
+.heap           0x0000000020003e58     0x2000
+                0x0000000020003e58                __HeapBase = .
+                0x0000000020003e58                __end__ = .
+                [!provide]                        PROVIDE (end = .)
+ *(.heap*)
+ .heap          0x0000000020003e58     0x2000 build-pinetime/gcc_startup_nrf52.o
+                0x0000000020005e58                __HeapLimit = .
+
+.stack_dummy    0x0000000020003e58     0x2000
+ *(.stack*)
+ .stack         0x0000000020003e58     0x2000 build-pinetime/gcc_startup_nrf52.o
+                0x0000000020010000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x000000002000e000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000000020010000                PROVIDE (__stack = __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x0000000000000448                DataInitFlashUsed = (__bss_start__ - __data_start__)
+                0x000000000002b760                CodeFlashUsed = (__etext - ORIGIN (FLASH))
+                0x000000000002bba8                TotalFlashUsed = (CodeFlashUsed + DataInitFlashUsed)
+                0x0000000000000001                ASSERT ((TotalFlashUsed <= LENGTH (FLASH)), region FLASH overflowed with .data and user data)
+OUTPUT(build-pinetime/reloader.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2a
+ .ARM.attributes
+                0x0000000000000000       0x1e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004c       0x1c /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000068       0x2e build-pinetime/main.o
+ .ARM.attributes
+                0x0000000000000096       0x2e build-pinetime/flash.o
+ .ARM.attributes
+                0x00000000000000c4       0x2e build-pinetime/st7789.o
+ .ARM.attributes
+                0x00000000000000f2       0x2e build-pinetime/wdt.o
+ .ARM.attributes
+                0x0000000000000120       0x2e build-pinetime/nrfx_nvmc.o
+ .ARM.attributes
+                0x000000000000014e       0x1c build-pinetime/gcc_startup_nrf52.o
+ .ARM.attributes
+                0x000000000000016a       0x2e build-pinetime/system_nrf52.o
+ .ARM.attributes
+                0x0000000000000198       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000000001c6       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000001f4       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000222       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x0000000000000250       0x1c /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000000000000026c       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000029a       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000002c8       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000000002f6       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000324       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000352       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000380       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000000003ae       0x1e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ .ARM.attributes
+                0x00000000000003cc       0x2e /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
+
+.comment        0x0000000000000000       0x79
+ .comment       0x0000000000000000       0x79 build-pinetime/main.o
+                                         0x7a (size before relaxing)
+ .comment       0x0000000000000079       0x7a build-pinetime/flash.o
+ .comment       0x0000000000000079       0x7a build-pinetime/st7789.o
+ .comment       0x0000000000000079       0x7a build-pinetime/wdt.o
+ .comment       0x0000000000000079       0x7a build-pinetime/nrfx_nvmc.o
+ .comment       0x0000000000000079       0x7a build-pinetime/system_nrf52.o
+
+.debug_info     0x0000000000000000     0x67af
+ .debug_info    0x0000000000000000      0x1c5 build-pinetime/main.o
+ .debug_info    0x00000000000001c5     0x10ad build-pinetime/flash.o
+ .debug_info    0x0000000000001272     0x25c3 build-pinetime/st7789.o
+ .debug_info    0x0000000000003835      0xbdc build-pinetime/wdt.o
+ .debug_info    0x0000000000004411     0x1433 build-pinetime/nrfx_nvmc.o
+ .debug_info    0x0000000000005844       0x26 build-pinetime/gcc_startup_nrf52.o
+ .debug_info    0x000000000000586a      0xf45 build-pinetime/system_nrf52.o
+
+.debug_abbrev   0x0000000000000000     0x13b7
+ .debug_abbrev  0x0000000000000000      0x128 build-pinetime/main.o
+ .debug_abbrev  0x0000000000000128      0x434 build-pinetime/flash.o
+ .debug_abbrev  0x000000000000055c      0x51c build-pinetime/st7789.o
+ .debug_abbrev  0x0000000000000a78      0x251 build-pinetime/wdt.o
+ .debug_abbrev  0x0000000000000cc9      0x4bc build-pinetime/nrfx_nvmc.o
+ .debug_abbrev  0x0000000000001185       0x14 build-pinetime/gcc_startup_nrf52.o
+ .debug_abbrev  0x0000000000001199      0x21e build-pinetime/system_nrf52.o
+
+.debug_loc      0x0000000000000000     0x1f85
+ .debug_loc     0x0000000000000000       0x25 build-pinetime/main.o
+ .debug_loc     0x0000000000000025      0x340 build-pinetime/flash.o
+ .debug_loc     0x0000000000000365      0xe05 build-pinetime/st7789.o
+ .debug_loc     0x000000000000116a      0x2a4 build-pinetime/wdt.o
+ .debug_loc     0x000000000000140e      0x9c6 build-pinetime/nrfx_nvmc.o
+ .debug_loc     0x0000000000001dd4      0x1b1 build-pinetime/system_nrf52.o
+
+.debug_aranges  0x0000000000000000      0x1b0
+ .debug_aranges
+                0x0000000000000000       0x38 build-pinetime/main.o
+ .debug_aranges
+                0x0000000000000038       0x30 build-pinetime/flash.o
+ .debug_aranges
+                0x0000000000000068       0x40 build-pinetime/st7789.o
+ .debug_aranges
+                0x00000000000000a8       0x28 build-pinetime/wdt.o
+ .debug_aranges
+                0x00000000000000d0       0x88 build-pinetime/nrfx_nvmc.o
+ .debug_aranges
+                0x0000000000000158       0x20 build-pinetime/gcc_startup_nrf52.o
+ .debug_aranges
+                0x0000000000000178       0x38 build-pinetime/system_nrf52.o
+
+.debug_ranges   0x0000000000000000      0xae0
+ .debug_ranges  0x0000000000000000       0x28 build-pinetime/main.o
+ .debug_ranges  0x0000000000000028      0x110 build-pinetime/flash.o
+ .debug_ranges  0x0000000000000138      0x5c8 build-pinetime/st7789.o
+ .debug_ranges  0x0000000000000700      0x160 build-pinetime/wdt.o
+ .debug_ranges  0x0000000000000860      0x258 build-pinetime/nrfx_nvmc.o
+ .debug_ranges  0x0000000000000ab8       0x28 build-pinetime/system_nrf52.o
+
+.debug_macro    0x0000000000000000    0x127e3
+ .debug_macro   0x0000000000000000      0x1b5 build-pinetime/main.o
+ .debug_macro   0x00000000000001b5      0xa96 build-pinetime/main.o
+ .debug_macro   0x0000000000000c4b       0x22 build-pinetime/main.o
+ .debug_macro   0x0000000000000c6d       0x8e build-pinetime/main.o
+ .debug_macro   0x0000000000000cfb       0x51 build-pinetime/main.o
+ .debug_macro   0x0000000000000d4c       0xef build-pinetime/main.o
+ .debug_macro   0x0000000000000e3b       0x6a build-pinetime/main.o
+ .debug_macro   0x0000000000000ea5      0x1df build-pinetime/main.o
+ .debug_macro   0x0000000000001084      0x588 build-pinetime/main.o
+ .debug_macro   0x000000000000160c      0x174 build-pinetime/main.o
+ .debug_macro   0x0000000000001780       0x22 build-pinetime/main.o
+ .debug_macro   0x00000000000017a2       0x22 build-pinetime/main.o
+ .debug_macro   0x00000000000017c4       0x3b build-pinetime/main.o
+ .debug_macro   0x00000000000017ff       0x1c build-pinetime/main.o
+ .debug_macro   0x000000000000181b       0x22 build-pinetime/main.o
+ .debug_macro   0x000000000000183d      0x101 build-pinetime/main.o
+ .debug_macro   0x000000000000193e     0x1011 build-pinetime/main.o
+ .debug_macro   0x000000000000294f      0x11f build-pinetime/main.o
+ .debug_macro   0x0000000000002a6e      0x392 build-pinetime/main.o
+ .debug_macro   0x0000000000002e00     0xccbc build-pinetime/main.o
+ .debug_macro   0x000000000000fabc     0x1323 build-pinetime/main.o
+ .debug_macro   0x0000000000010ddf       0x82 build-pinetime/main.o
+ .debug_macro   0x0000000000010e61       0x1f build-pinetime/main.o
+ .debug_macro   0x0000000000010e80      0x3c8 build-pinetime/main.o
+ .debug_macro   0x0000000000011248       0x66 build-pinetime/main.o
+ .debug_macro   0x00000000000112ae       0x1d build-pinetime/main.o
+ .debug_macro   0x00000000000112cb      0x12e build-pinetime/main.o
+ .debug_macro   0x00000000000113f9       0xb8 build-pinetime/main.o
+ .debug_macro   0x00000000000114b1       0x16 build-pinetime/main.o
+ .debug_macro   0x00000000000114c7       0x1c build-pinetime/main.o
+ .debug_macro   0x00000000000114e3       0x2e build-pinetime/main.o
+ .debug_macro   0x0000000000011511       0x10 build-pinetime/main.o
+ .debug_macro   0x0000000000011521      0x27d build-pinetime/flash.o
+ .debug_macro   0x000000000001179e       0x58 build-pinetime/flash.o
+ .debug_macro   0x00000000000117f6       0x18 build-pinetime/flash.o
+ .debug_macro   0x000000000001180e       0x94 build-pinetime/flash.o
+ .debug_macro   0x00000000000118a2       0x35 build-pinetime/flash.o
+ .debug_macro   0x00000000000118d7       0x34 build-pinetime/flash.o
+ .debug_macro   0x000000000001190b       0x57 build-pinetime/flash.o
+ .debug_macro   0x0000000000011962       0x58 build-pinetime/flash.o
+ .debug_macro   0x00000000000119ba       0x1f build-pinetime/flash.o
+ .debug_macro   0x00000000000119d9       0x43 build-pinetime/flash.o
+ .debug_macro   0x0000000000011a1c       0x20 build-pinetime/flash.o
+ .debug_macro   0x0000000000011a3c      0x18e build-pinetime/flash.o
+ .debug_macro   0x0000000000011bca      0x339 build-pinetime/flash.o
+ .debug_macro   0x0000000000011f03       0x10 build-pinetime/flash.o
+ .debug_macro   0x0000000000011f13       0x35 build-pinetime/flash.o
+ .debug_macro   0x0000000000011f48       0xfb build-pinetime/flash.o
+ .debug_macro   0x0000000000012043       0x22 build-pinetime/flash.o
+ .debug_macro   0x0000000000012065       0x1c build-pinetime/flash.o
+ .debug_macro   0x0000000000012081      0x2d5 build-pinetime/st7789.o
+ .debug_macro   0x0000000000012356       0x10 build-pinetime/st7789.o
+ .debug_macro   0x0000000000012366      0x1a1 build-pinetime/wdt.o
+ .debug_macro   0x0000000000012507      0x1a0 build-pinetime/nrfx_nvmc.o
+ .debug_macro   0x00000000000126a7      0x13c build-pinetime/system_nrf52.o
+
+.debug_line     0x0000000000000000     0x31b7
+ .debug_line    0x0000000000000000      0x49d build-pinetime/main.o
+ .debug_line    0x000000000000049d      0x78e build-pinetime/flash.o
+ .debug_line    0x0000000000000c2b      0xdfd build-pinetime/st7789.o
+ .debug_line    0x0000000000001a28      0x59e build-pinetime/wdt.o
+ .debug_line    0x0000000000001fc6      0xb40 build-pinetime/nrfx_nvmc.o
+ .debug_line    0x0000000000002b06       0x70 build-pinetime/gcc_startup_nrf52.o
+ .debug_line    0x0000000000002b76      0x641 build-pinetime/system_nrf52.o
+
+.debug_str      0x0000000000000000    0x64abf
+ .debug_str     0x0000000000000000    0x608e5 build-pinetime/main.o
+                                      0x613d6 (size before relaxing)
+ .debug_str     0x00000000000608e5     0x2e19 build-pinetime/flash.o
+                                      0x64159 (size before relaxing)
+ .debug_str     0x00000000000636fe      0x81b build-pinetime/st7789.o
+                                      0x647bc (size before relaxing)
+ .debug_str     0x0000000000063f19      0x1be build-pinetime/wdt.o
+                                      0x61978 (size before relaxing)
+ .debug_str     0x00000000000640d7      0x5f6 build-pinetime/nrfx_nvmc.o
+                                      0x618e5 (size before relaxing)
+ .debug_str     0x00000000000646cd       0x2f build-pinetime/gcc_startup_nrf52.o
+                                         0x56 (size before relaxing)
+ .debug_str     0x00000000000646fc      0x3c3 build-pinetime/system_nrf52.o
+                                      0x5dfd3 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x5c8
+ .debug_frame   0x0000000000000000       0x6c build-pinetime/main.o
+ .debug_frame   0x000000000000006c       0x74 build-pinetime/flash.o
+ .debug_frame   0x00000000000000e0       0xb4 build-pinetime/st7789.o
+ .debug_frame   0x0000000000000194       0x30 build-pinetime/wdt.o
+ .debug_frame   0x00000000000001c4      0x130 build-pinetime/nrfx_nvmc.o
+ .debug_frame   0x00000000000002f4       0x58 build-pinetime/system_nrf52.o
+ .debug_frame   0x000000000000034c       0x28 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000374       0x2c /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_frame   0x00000000000003a0       0x3c /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcmp.o)
+ .debug_frame   0x00000000000003dc       0x38 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000414       0x5c /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000470       0x20 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000490       0x34 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_frame   0x00000000000004c4       0xb0 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000574       0x34 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000000005a8       0x20 /opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
